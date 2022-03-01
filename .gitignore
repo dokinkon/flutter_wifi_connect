@@ -3,3 +3,5 @@ __MACOSX/
 .dart_tool/
 .idea/
 android/.idea/
+build
+.DS_Store
